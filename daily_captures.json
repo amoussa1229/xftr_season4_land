@@ -1,0 +1,887 @@
+{
+  "version": "1.0",
+  "exportDate": "2026-03-29T20:23:34.662Z",
+  "grids": [
+    {
+      "id": "s4-1774814094378-tp96wc37t",
+      "name": "Season 4 - W1D1",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "79",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "67",
+          "allianceId": "1774813668046",
+          "step": 2
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T19:57:49.620Z"
+    },
+    {
+      "id": "s4-1774814094378-e8saj1ujo",
+      "name": "Season 4 - W1D2",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "79",
+            "67"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "53",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "41",
+          "allianceId": "1774813668046",
+          "step": 2
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T19:58:02.886Z"
+    },
+    {
+      "id": "s4-1774814094378-rqoofb5ut",
+      "name": "Season 4 - W1D3",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "79",
+            "67",
+            "53",
+            "41"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "27",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "15",
+          "allianceId": "1774813668046",
+          "step": 2
+        },
+        {
+          "areaId": "66",
+          "allianceId": "1774813668046",
+          "step": 3
+        },
+        {
+          "areaId": "40",
+          "allianceId": "1774813668046",
+          "step": 4
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T19:58:59.992Z"
+    },
+    {
+      "id": "s4-1774814094378-nawpb5pkh",
+      "name": "Season 4 - W1D4",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "79",
+            "67",
+            "53",
+            "41",
+            "27",
+            "15",
+            "66",
+            "40"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "14",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "2",
+          "allianceId": "1774813668046",
+          "step": 2
+        },
+        {
+          "areaId": "1",
+          "allianceId": "1774813668046",
+          "step": 3
+        },
+        {
+          "areaId": "3",
+          "allianceId": "1774813668046",
+          "step": 4
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:00:58.764Z"
+    },
+    {
+      "id": "s4-1774814094378-cxlqhdiy8",
+      "name": "Season 4 - W1D5",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "41",
+            "27",
+            "15",
+            "3",
+            "66",
+            "40",
+            "14",
+            "2",
+            "1",
+            "67"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "4",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "17",
+          "allianceId": "1774813668046",
+          "step": 2
+        },
+        {
+          "areaId": "5",
+          "allianceId": "1774813668046",
+          "step": 3
+        },
+        {
+          "areaId": "6",
+          "allianceId": "1774813668046",
+          "step": 4
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:02:33.737Z"
+    },
+    {
+      "id": "s4-1774814094378-6ce83wyot",
+      "name": "Season 4 - W1D6",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "66",
+            "40",
+            "14",
+            "2",
+            "15",
+            "3",
+            "41",
+            "67",
+            "4",
+            "17",
+            "5",
+            "6"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "19",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "31",
+          "allianceId": "1774813668046",
+          "step": 2
+        },
+        {
+          "areaId": "18",
+          "allianceId": "1774813668046",
+          "step": 3
+        },
+        {
+          "areaId": "16",
+          "allianceId": "1774813668046",
+          "step": 4
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:03:46.214Z"
+    },
+    {
+      "id": "s4-1774814094378-1cr0zpn27",
+      "name": "Season 4 - W1D7",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "67",
+            "41",
+            "14",
+            "15",
+            "2",
+            "4",
+            "17",
+            "6",
+            "19",
+            "31",
+            "18",
+            "16"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "28",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "54",
+          "allianceId": "1774813668046",
+          "step": 2
+        },
+        {
+          "areaId": "29",
+          "allianceId": "1774813668046",
+          "step": 3
+        },
+        {
+          "areaId": "55",
+          "allianceId": "1774813668046",
+          "step": 4
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:05:36.545Z"
+    },
+    {
+      "id": "s4-1774814094378-p4eit820q",
+      "name": "Season 4 - W2D1",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "6",
+            "19",
+            "18",
+            "4",
+            "16",
+            "41",
+            "67",
+            "29",
+            "28",
+            "55",
+            "54",
+            "31"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "80",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "81",
+          "allianceId": "1774813668046",
+          "step": 2
+        },
+        {
+          "areaId": "69",
+          "allianceId": "1774813668046",
+          "step": 3
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:08:02.370Z"
+    },
+    {
+      "id": "s4-1774814094378-yd5ctm69j",
+      "name": "Season 4 - W2D2",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "16",
+            "29",
+            "28",
+            "54",
+            "55",
+            "31",
+            "18",
+            "19",
+            "6",
+            "69",
+            "81",
+            "80"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "43",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "45",
+          "allianceId": "1774813668046",
+          "step": 2
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:09:53.858Z"
+    },
+    {
+      "id": "s4-1774814094378-owx136t86",
+      "name": "Season 4 - W2D3",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "6",
+            "18",
+            "31",
+            "16",
+            "28",
+            "54",
+            "55",
+            "69",
+            "81",
+            "80",
+            "43",
+            "45"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "57",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "83",
+          "allianceId": "1774813668046",
+          "step": 2
+        },
+        {
+          "areaId": "68",
+          "allianceId": "1774813668046",
+          "step": 3
+        },
+        {
+          "areaId": "42",
+          "allianceId": "1774813668046",
+          "step": 4
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:11:23.189Z"
+    },
+    {
+      "id": "s4-1774814094378-tooaweyiy",
+      "name": "Season 4 - W2D4",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "6",
+            "18",
+            "31",
+            "45",
+            "43",
+            "54",
+            "69",
+            "80",
+            "42",
+            "68",
+            "57",
+            "83"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "71",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "32",
+          "allianceId": "1774813668046",
+          "step": 2
+        },
+        {
+          "areaId": "30",
+          "allianceId": "1774813668046",
+          "step": 3
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:13:02.384Z"
+    },
+    {
+      "id": "s4-1774814094378-6kah04i6r",
+      "name": "Season 4 - W2D5",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "32",
+            "45",
+            "57",
+            "71",
+            "83",
+            "69",
+            "43",
+            "42",
+            "68",
+            "54",
+            "80",
+            "30"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:14:24.030Z"
+    },
+    {
+      "id": "s4-1774814094378-k411d87b5",
+      "name": "Season 4 - W2D6",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "32",
+            "45",
+            "57",
+            "71",
+            "83",
+            "69",
+            "68",
+            "42",
+            "43",
+            "30",
+            "54",
+            "80"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "56",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "82",
+          "allianceId": "1774813668046",
+          "step": 2
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:16:01.571Z"
+    },
+    {
+      "id": "s4-1774814094378-o68sbr6hs",
+      "name": "Season 4 - W2D7",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "68",
+            "69",
+            "42",
+            "43",
+            "30",
+            "32",
+            "45",
+            "57",
+            "71",
+            "83",
+            "56",
+            "82"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "44",
+          "allianceId": "1774813668046",
+          "step": 1
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T19:54:54.378Z",
+      "updatedAt": "2026-03-29T20:16:37.589Z"
+    },
+    {
+      "id": "s4-1774815400161",
+      "name": "Season 4 - W3D1",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "68",
+            "69",
+            "43",
+            "30",
+            "32",
+            "45",
+            "57",
+            "71",
+            "83",
+            "56",
+            "82",
+            "44"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T20:16:40.161Z",
+      "updatedAt": "2026-03-29T20:17:07.049Z"
+    },
+    {
+      "id": "s4-1774815437421",
+      "name": "Season 4 - W3D2",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "68",
+            "69",
+            "43",
+            "30",
+            "32",
+            "45",
+            "57",
+            "71",
+            "83",
+            "56",
+            "82",
+            "44"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T20:17:17.421Z",
+      "updatedAt": "2026-03-29T20:17:23.236Z"
+    },
+    {
+      "id": "s4-1774815452330",
+      "name": "Season 4 - W3D3",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "68",
+            "69",
+            "43",
+            "30",
+            "32",
+            "45",
+            "57",
+            "71",
+            "83",
+            "56",
+            "82",
+            "44"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "70",
+          "allianceId": "1774813668046",
+          "step": 1
+        },
+        {
+          "areaId": "58",
+          "allianceId": "1774813668046",
+          "step": 2
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T20:17:32.330Z",
+      "updatedAt": "2026-03-29T20:17:43.295Z"
+    },
+    {
+      "id": "s4-1774815465747",
+      "name": "Season 4 - W3D4",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "69",
+            "43",
+            "32",
+            "45",
+            "57",
+            "71",
+            "83",
+            "56",
+            "82",
+            "44",
+            "70",
+            "58"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": false,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T20:17:45.747Z",
+      "updatedAt": "2026-03-29T20:18:04.670Z"
+    },
+    {
+      "id": "s4-1774815489408",
+      "name": "Season 4 - W3D5",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "69",
+            "43",
+            "32",
+            "45",
+            "57",
+            "71",
+            "83",
+            "56",
+            "82",
+            "44",
+            "70",
+            "58"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": false,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T20:18:09.408Z",
+      "updatedAt": "2026-03-29T20:18:16.231Z"
+    },
+    {
+      "id": "s4-1774815498577",
+      "name": "Season 4 - W3D6",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "69",
+            "43",
+            "32",
+            "45",
+            "57",
+            "71",
+            "83",
+            "56",
+            "82",
+            "44",
+            "70",
+            "58"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "84",
+          "allianceId": "1774813668046",
+          "step": 1
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T20:18:18.577Z",
+      "updatedAt": "2026-03-29T20:18:36.799Z"
+    },
+    {
+      "id": "s4-1774815519372",
+      "name": "Season 4 - W3D7",
+      "alliances": [
+        {
+          "id": "1774813668046",
+          "name": "XFTR",
+          "areaIds": [
+            "69",
+            "43",
+            "45",
+            "57",
+            "71",
+            "83",
+            "56",
+            "82",
+            "44",
+            "70",
+            "58",
+            "84"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": false,
+      "selectedAllianceId": "1774813668046",
+      "createdAt": "2026-03-29T20:18:39.372Z",
+      "updatedAt": "2026-03-29T20:18:49.972Z"
+    }
+  ]
+}

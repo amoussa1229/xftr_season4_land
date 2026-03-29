@@ -1,0 +1,250 @@
+{
+  "version": "1.0",
+  "exportDate": "2026-03-29T20:24:47.289Z",
+  "grids": [
+    {
+      "id": "s4-1774815570892",
+      "name": "Season 4 - Full Path",
+      "alliances": [
+        {
+          "id": "1774815587856",
+          "name": "XFTR",
+          "areaIds": [
+            "84",
+            "83",
+            "82",
+            "69",
+            "70",
+            "71",
+            "58",
+            "57",
+            "56",
+            "45",
+            "44",
+            "43"
+          ],
+          "color": "#8BC1F7"
+        }
+      ],
+      "pathSteps": [
+        {
+          "areaId": "79",
+          "allianceId": "1774815587856",
+          "step": 1
+        },
+        {
+          "areaId": "67",
+          "allianceId": "1774815587856",
+          "step": 2
+        },
+        {
+          "areaId": "53",
+          "allianceId": "1774815587856",
+          "step": 3
+        },
+        {
+          "areaId": "41",
+          "allianceId": "1774815587856",
+          "step": 4
+        },
+        {
+          "areaId": "27",
+          "allianceId": "1774815587856",
+          "step": 5
+        },
+        {
+          "areaId": "15",
+          "allianceId": "1774815587856",
+          "step": 6
+        },
+        {
+          "areaId": "66",
+          "allianceId": "1774815587856",
+          "step": 7
+        },
+        {
+          "areaId": "40",
+          "allianceId": "1774815587856",
+          "step": 8
+        },
+        {
+          "areaId": "14",
+          "allianceId": "1774815587856",
+          "step": 9
+        },
+        {
+          "areaId": "2",
+          "allianceId": "1774815587856",
+          "step": 10
+        },
+        {
+          "areaId": "1",
+          "allianceId": "1774815587856",
+          "step": 11
+        },
+        {
+          "areaId": "3",
+          "allianceId": "1774815587856",
+          "step": 12
+        },
+        {
+          "areaId": "4",
+          "allianceId": "1774815587856",
+          "step": 13
+        },
+        {
+          "areaId": "5",
+          "allianceId": "1774815587856",
+          "step": 14
+        },
+        {
+          "areaId": "6",
+          "allianceId": "1774815587856",
+          "step": 15
+        },
+        {
+          "areaId": "17",
+          "allianceId": "1774815587856",
+          "step": 16
+        },
+        {
+          "areaId": "19",
+          "allianceId": "1774815587856",
+          "step": 17
+        },
+        {
+          "areaId": "31",
+          "allianceId": "1774815587856",
+          "step": 18
+        },
+        {
+          "areaId": "18",
+          "allianceId": "1774815587856",
+          "step": 19
+        },
+        {
+          "areaId": "16",
+          "allianceId": "1774815587856",
+          "step": 20
+        },
+        {
+          "areaId": "28",
+          "allianceId": "1774815587856",
+          "step": 21
+        },
+        {
+          "areaId": "54",
+          "allianceId": "1774815587856",
+          "step": 22
+        },
+        {
+          "areaId": "29",
+          "allianceId": "1774815587856",
+          "step": 23
+        },
+        {
+          "areaId": "55",
+          "allianceId": "1774815587856",
+          "step": 24
+        },
+        {
+          "areaId": "80",
+          "allianceId": "1774815587856",
+          "step": 25
+        },
+        {
+          "areaId": "81",
+          "allianceId": "1774815587856",
+          "step": 26
+        },
+        {
+          "areaId": "69",
+          "allianceId": "1774815587856",
+          "step": 27
+        },
+        {
+          "areaId": "43",
+          "allianceId": "1774815587856",
+          "step": 28
+        },
+        {
+          "areaId": "45",
+          "allianceId": "1774815587856",
+          "step": 29
+        },
+        {
+          "areaId": "57",
+          "allianceId": "1774815587856",
+          "step": 30
+        },
+        {
+          "areaId": "83",
+          "allianceId": "1774815587856",
+          "step": 31
+        },
+        {
+          "areaId": "68",
+          "allianceId": "1774815587856",
+          "step": 32
+        },
+        {
+          "areaId": "42",
+          "allianceId": "1774815587856",
+          "step": 33
+        },
+        {
+          "areaId": "71",
+          "allianceId": "1774815587856",
+          "step": 34
+        },
+        {
+          "areaId": "32",
+          "allianceId": "1774815587856",
+          "step": 35
+        },
+        {
+          "areaId": "30",
+          "allianceId": "1774815587856",
+          "step": 36
+        },
+        {
+          "areaId": "56",
+          "allianceId": "1774815587856",
+          "step": 37
+        },
+        {
+          "areaId": "82",
+          "allianceId": "1774815587856",
+          "step": 38
+        },
+        {
+          "areaId": "44",
+          "allianceId": "1774815587856",
+          "step": 39
+        },
+        {
+          "areaId": "70",
+          "allianceId": "1774815587856",
+          "step": 40
+        },
+        {
+          "areaId": "58",
+          "allianceId": "1774815587856",
+          "step": 41
+        },
+        {
+          "areaId": "84",
+          "allianceId": "1774815587856",
+          "step": 42
+        }
+      ],
+      "showStrongholds": false,
+      "showCities": true,
+      "showBuffs": false,
+      "proposedPathMode": true,
+      "selectedAllianceId": "1774815587856",
+      "createdAt": "2026-03-29T20:19:30.892Z",
+      "updatedAt": "2026-03-29T20:23:12.450Z"
+    }
+  ]
+}
